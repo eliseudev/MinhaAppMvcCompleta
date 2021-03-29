@@ -1,0 +1,15 @@
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.runtimeconfig.json
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.runtimeconfig.dev.json
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csprojAssemblyReference.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.genruntimeconfig.cache

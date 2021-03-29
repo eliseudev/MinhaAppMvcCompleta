@@ -1,0 +1,15 @@
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csprojAssemblyReference.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfoInputs.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfo.cs
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CoreCompileInputs.cache
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.deps.json
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\ref\DevIO.Data.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.pdb
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.pdb
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CopyComplete
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\ref\DevIO.Data.dll
+W:\BACKUP\Documents\GitHub\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.pdb

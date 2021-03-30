@@ -221,6 +221,10 @@
             "Microsoft.entityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.12.0, )"
             }
           },
           "imports": [

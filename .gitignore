@@ -48,11 +48,11 @@ Thumbs.db
 *.mov
 *.wmv
 
-src/MinhaAppCompleta/DevIO.App/bin/**
-src/MinhaAppCompleta/DevIO.App/obj/**
-src/MinhaAppCompleta/DevIO.Business/bin/**
-src/MinhaAppCompleta/DevIO.Business/obj/**
-src/MinhaAppCompleta/DevIO.Data/bin/**
-src/MinhaAppCompleta/DevIO.Data/obj/**
+src/MinhaAppCompleta/DevIO.App/bin/**/**/*
+src/MinhaAppCompleta/DevIO.App/obj/**/**/*
+src/MinhaAppCompleta/DevIO.Business/bin/**/**/*
+src/MinhaAppCompleta/DevIO.Business/obj/**/**/*
+src/MinhaAppCompleta/DevIO.Data/bin/**/**/*
+src/MinhaAppCompleta/DevIO.Data/obj/**/**/*
 
 
